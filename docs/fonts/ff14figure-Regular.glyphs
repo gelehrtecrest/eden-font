@@ -1523,6 +1523,14 @@ width = 600;
 unicode = 0020;
 }
 );
+instances = (
+{
+instanceInterpolations = {
+"9D2CFCBA-A91A-4722-94B4-AF0C172E062A" = 1;
+};
+name = Regular;
+}
+);
 manufacturer = "Gelehte Crest";
 manufacturerURL = "https://blog.gelehrte.com";
 unitsPerEm = 1000;
