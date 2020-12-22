@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="レイヤー1">
+        <path d="M1321.82,256.934C1340.79,329.279 1403.13,536.033 1496.77,538.265C1550.61,539.548 1589.95,586.239 1617.54,640.246L1617.54,1942.09L1341.45,1942.09L1341.45,1264.27L1341.51,1264.22L1164.45,1061.84L990.458,862.65L990.929,256.934L1321.82,256.934ZM858.651,256.934L858.142,912.129L858.085,912.179L970.012,1040.32L969.928,1040.39L1064.86,1148.9L1129.87,1223.32L1129.92,1223.27L1209.17,1313.85L1209.17,1942.09L872.014,1942.09C847.622,1856.65 788.232,1685.69 703.109,1683.73C641.972,1682.32 599.471,1622.33 571.667,1559.58L571.667,256.934L858.651,256.934Z"/>
+    </g>
+</svg>
