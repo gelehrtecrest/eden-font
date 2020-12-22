@@ -1,10 +1,10 @@
 {
 .appVersion = "1342";
 copyright = MIT;
-date = "2020-12-22 21:41:41 +0000";
+date = "2020-12-22 21:53:57 +0000";
 designer = "Gelehte Crest";
 designerURL = "https://blog.gelehrte.com";
-familyName = ff14figure;
+familyName = FF14figure;
 fontMaster = (
 {
 ascender = 800;
@@ -600,7 +600,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2020-12-22 21:11:43 +0000";
+lastChange = "2020-12-22 21:53:36 +0000";
 layers = (
 {
 layerId = "9D2CFCBA-A91A-4722-94B4-AF0C172E062A";
@@ -608,71 +608,71 @@ paths = (
 {
 closed = 1;
 nodes = (
-"691 1 LINE",
-"258 1 LINE",
-"258 123 LINE",
-"423 123 LINE",
-"423 123 LINE",
-"423 100 OFFCURVE",
-"457 79 OFFCURVE",
-"475 79 CURVE",
-"492 79 OFFCURVE",
-"527 100 OFFCURVE",
-"527 123 CURVE",
-"527 123 OFFCURVE",
-"527 123 OFFCURVE",
-"527 123 CURVE",
-"691 123 LINE",
-"691 123 LINE"
+"463 1 LINE",
+"30 1 LINE",
+"30 123 LINE",
+"195 123 LINE",
+"195 123 LINE",
+"195 100 OFFCURVE",
+"229 79 OFFCURVE",
+"247 79 CURVE",
+"264 79 OFFCURVE",
+"299 100 OFFCURVE",
+"299 123 CURVE",
+"299 123 OFFCURVE",
+"299 123 OFFCURVE",
+"299 123 CURVE",
+"463 123 LINE",
+"463 123 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"423 445 OFFCURVE",
-"423 271 OFFCURVE",
-"423 173 CURVE",
-"258 173 LINE",
-"258 543 LINE",
-"423 543 LINE",
-"423 543 LINE"
+"195 445 OFFCURVE",
+"195 271 OFFCURVE",
+"195 173 CURVE",
+"30 173 LINE",
+"30 543 LINE",
+"195 543 LINE",
+"195 543 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"527 543 LINE",
-"691 543 LINE",
-"691 173 LINE",
-"527 173 LINE",
-"527 272 OFFCURVE",
-"528 444 OFFCURVE",
-"527 543 CURVE"
+"299 543 LINE",
+"463 543 LINE",
+"463 173 LINE",
+"299 173 LINE",
+"299 272 OFFCURVE",
+"300 444 OFFCURVE",
+"299 543 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"527 593 LINE",
-"527 593 OFFCURVE",
-"527 593 OFFCURVE",
-"527 593 CURVE",
-"527 615 OFFCURVE",
-"493 638 OFFCURVE",
-"475 638 CURVE",
-"457 638 OFFCURVE",
-"423 617 OFFCURVE",
-"423 593 CURVE",
-"423 593 LINE",
-"258 593 LINE",
-"258 698 LINE",
-"691 698 LINE",
-"691 593 LINE",
-"691 593 LINE"
+"299 593 LINE",
+"299 593 OFFCURVE",
+"299 593 OFFCURVE",
+"299 593 CURVE",
+"299 615 OFFCURVE",
+"265 638 OFFCURVE",
+"247 638 CURVE",
+"229 638 OFFCURVE",
+"195 617 OFFCURVE",
+"195 593 CURVE",
+"195 593 LINE",
+"30 593 LINE",
+"30 698 LINE",
+"463 698 LINE",
+"463 593 LINE",
+"463 593 LINE"
 );
 }
 );
-width = 1000;
+width = 493;
 }
 );
 unicode = 004B;
@@ -2570,5 +2570,5 @@ manufacturer = "Gelehte Crest";
 manufacturerURL = "https://blog.gelehrte.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
