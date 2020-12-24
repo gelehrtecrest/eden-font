@@ -4,7 +4,7 @@ copyright = MIT;
 date = "2020-12-24 22:58:13 +0000";
 designer = "Gelehte Crest";
 designerURL = "https://blog.gelehrte.com";
-familyName = FF14figure;
+familyName = FF14Figure;
 fontMaster = (
 {
 ascender = 800;
@@ -3137,7 +3137,7 @@ unicode = 305B;
 },
 {
 glyphname = "so-hira";
-lastChange = "2020-12-24 22:54:18 +0000";
+lastChange = "2020-12-24 23:12:18 +0000";
 layers = (
 {
 layerId = "9D2CFCBA-A91A-4722-94B4-AF0C172E062A";
@@ -3145,23 +3145,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"170 463 OFFCURVE",
-"143 463 OFFCURVE",
-"134 463 CURVE",
-"128 463 OFFCURVE",
-"124 459 OFFCURVE",
-"120 455 CURVE",
-"116 451 OFFCURVE",
-"114 445 OFFCURVE",
-"113 439 CURVE",
-"113 371 OFFCURVE",
-"113 85 OFFCURVE",
-"113 1 CURVE",
-"30 1 LINE",
-"30 698 LINE",
-"185 698 LINE",
 "185 464 LINE",
-"185 464 LINE"
+"185 698 LINE",
+"30 698 LINE",
+"30 1 LINE",
+"113 1 LINE",
+"113 85 OFFCURVE",
+"113 371 OFFCURVE",
+"113 439 CURVE",
+"114 445 OFFCURVE",
+"116 451 OFFCURVE",
+"120 455 CURVE",
+"124 459 OFFCURVE",
+"128 463 OFFCURVE",
+"134 463 CURVE",
+"143 463 OFFCURVE",
+"170 463 OFFCURVE",
+"185 464 CURVE"
 );
 },
 {
