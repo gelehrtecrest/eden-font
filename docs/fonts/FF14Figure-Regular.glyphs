@@ -1,8 +1,5 @@
 {
 .appVersion = "1342";
-DisplayStrings = (
-x
-);
 copyright = MIT;
 date = "2020-12-24 22:58:13 +0000";
 designer = "Gelehte Crest";
@@ -3311,7 +3308,7 @@ unicode = 3061;
 },
 {
 glyphname = "tu-hira";
-lastChange = "2020-12-24 22:57:59 +0000";
+lastChange = "2020-12-24 23:56:16 +0000";
 layers = (
 {
 layerId = "9D2CFCBA-A91A-4722-94B4-AF0C172E062A";
@@ -3319,45 +3316,45 @@ paths = (
 {
 closed = 1;
 nodes = (
-"449 113 OFFCURVE",
-"422 113 OFFCURVE",
-"412 113 CURVE",
-"407 113 OFFCURVE",
-"402 113 OFFCURVE",
-"399 114 CURVE",
-"395 116 OFFCURVE",
-"391 128 OFFCURVE",
-"391 130 CURVE",
-"391 152 OFFCURVE",
-"391 200 OFFCURVE",
-"390 226 CURVE",
+"464 114 LINE",
+"464 226 LINE",
 "309 226 LINE",
 "309 1 LINE",
-"464 1 LINE",
-"464 113 LINE",
-"464 113 LINE"
+"390 1 LINE",
+"391 27 OFFCURVE",
+"391 75 OFFCURVE",
+"391 97 CURVE",
+"391 99 OFFCURVE",
+"395 111 OFFCURVE",
+"399 113 CURVE",
+"402 114 OFFCURVE",
+"407 114 OFFCURVE",
+"412 114 CURVE",
+"422 114 OFFCURVE",
+"449 114 OFFCURVE",
+"464 114 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"171 113 OFFCURVE",
-"143 113 OFFCURVE",
-"134 113 CURVE",
-"129 113 OFFCURVE",
-"124 113 OFFCURVE",
-"120 114 CURVE",
-"117 116 OFFCURVE",
-"113 128 OFFCURVE",
-"113 130 CURVE",
-"112 152 OFFCURVE",
-"112 200 OFFCURVE",
-"112 226 CURVE",
+"186 114 LINE",
+"186 226 LINE",
 "30 226 LINE",
 "30 1 LINE",
-"186 1 LINE",
-"186 113 LINE",
-"186 113 LINE"
+"112 1 LINE",
+"112 27 OFFCURVE",
+"112 75 OFFCURVE",
+"113 97 CURVE",
+"113 99 OFFCURVE",
+"117 111 OFFCURVE",
+"120 113 CURVE",
+"124 114 OFFCURVE",
+"129 114 OFFCURVE",
+"134 114 CURVE",
+"143 114 OFFCURVE",
+"171 114 OFFCURVE",
+"186 114 CURVE"
 );
 }
 );
@@ -3519,5 +3516,5 @@ manufacturer = "Gelehte Crest";
 manufacturerURL = "https://blog.gelehrte.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
