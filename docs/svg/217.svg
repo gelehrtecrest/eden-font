@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="レイヤー1" transform="matrix(1,8.30246e-17,-8.30246e-17,-0.322052,3.40357e-14,1907.02)">
+        <path d="M1495.07,1003.67C1458.59,1003.91 1393.18,1004.77 1370.22,1005.12C1357.48,1005.31 1346.17,1005.02 1337.53,1014.39C1328.61,1024.07 1319.86,1114.62 1319.73,1129.12C1318.15,1298.2 1317.8,1661.16 1316.28,1852.97L1119.53,1852.97L1119.53,167.822L1495.07,167.822L1495.07,1003.67Z" style="stroke:black;stroke-width:13.46px;"/>
+    </g>
+    <g id="レイヤー11" serif:id="レイヤー1" transform="matrix(1,8.30246e-17,-8.30246e-17,-0.322052,-672.61,1907.02)">
+        <path d="M1495.07,1003.67C1458.59,1003.91 1393.18,1004.77 1370.22,1005.12C1357.48,1005.31 1346.17,1005.02 1337.53,1014.39C1328.61,1024.07 1319.86,1114.62 1319.73,1129.12C1318.15,1298.2 1317.8,1661.16 1316.28,1852.97L1119.53,1852.97L1119.53,167.822L1495.07,167.822L1495.07,1003.67Z" style="stroke:black;stroke-width:13.46px;"/>
+    </g>
+</svg>

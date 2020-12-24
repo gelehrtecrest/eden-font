@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="レイヤー1">
+        <path d="M449.196,1192.36C523.779,1209.73 640.893,1258.32 781.094,1390.55C998.495,1595.6 1059.97,1759.93 1075.8,1852.97L449.196,1852.97L449.196,1192.36ZM449.196,682.866C541.336,689.259 673.587,703.718 748.563,735.879C1133.19,900.872 1378,1222.4 1495.07,1410.83L1495.07,1852.97L1278.29,1852.97C1243.83,1716.9 1150.12,1441.97 924.125,1241.12C814.326,1143.54 577.996,1050.75 449.196,1004.84L449.196,682.866ZM1495.07,1044.33C1385.43,937.006 1179.4,742.834 1041.66,658.794C864.375,550.634 595.015,513.186 449.196,500.449L449.196,167.822L1495.07,167.822L1495.07,1044.33Z" style="stroke:black;stroke-width:10px;"/>
+    </g>
+</svg>
